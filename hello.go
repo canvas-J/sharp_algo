@@ -1,9 +1,7 @@
 /*
 gotips_test.go:
   Golang速学速查速用代码手册
-
 Source: github.com/coderzh/CodeTips/blob/master/gotips_test.go
-
 Author: coderzh(github.com/coderzh)
 Blog: http://blog.coderzh.com
 参考：《Go语言编程》
